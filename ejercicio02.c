@@ -35,3 +35,10 @@ int main(void){
     }
     return 0;
 }
+/*
+Comentarios:
+    Se limito a numeros del 1 al 99 para testear el codigo
+    Para la clasificacion de numeros no se conto el divisor del mismo numero
+    Si eliminamos el %99 podria haber problemas si el numero es negativo o si el numero es demasiado grande
+    el esfuerzo computacional para encontrar los divisores sera mas grande
+*/
